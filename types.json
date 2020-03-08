@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "SPKG",
+    "Extension": ".spkg",
+    "Condition": "[0] == 1196118099"
+  },
+  {
+    "Name": "KTSR",
+    "Extension": ".ktsr",
+    "Condition": "[0] == 1381192779"
+  },
+  {
+    "Name": "BINGZ",
+    "Extension": ".bin.gz",
+    "Condition": "[0] == 65536"
+  }
+]
